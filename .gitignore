@@ -3,3 +3,9 @@ __pycache__
 *.pyc
 *DS_Store
 data/
+models/yolov7/
+models/fold1
+models/fold2
+models/fold3
+*.ipynb_checkpoints
+torchvision
