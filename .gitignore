@@ -11,6 +11,7 @@ models/predict
 *.ipynb_checkpoints
 torchvision
 onnxsim-setup
+!models/yolov7/
 !models/yolov7/runs
 !models/yolov7/runs/train
 !models/yolov7/runs/train/**
