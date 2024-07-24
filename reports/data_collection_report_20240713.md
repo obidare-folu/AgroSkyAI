@@ -42,3 +42,6 @@ classes = {
     "wheat": 2
 }
 
+Help and guides were taken from:
+https://www.kaggle.com/code/ankursingh12/data-augmentation-for-object-detection
+https://huggingface.co/spaces/IliaLarchenko/albumentations-demo
